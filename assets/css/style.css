@@ -5,7 +5,7 @@
     background-image: url(../images/f8e395b6785428be9450d570bf48bf09.jpg);
 }
 .navbar{
-    background-color: darkblue;
+    background-color: blueviolet;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -30,5 +30,15 @@
     color: aqua;
 }
 /* The above styles the Navbar */
+.description{
+    display: flex;
+    justify-content: space-between;
+}
+.profile{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
 
 
