@@ -14,7 +14,7 @@
   width: 100%; */
 }
 
-/* .aboutme{
+.aboutme{
   background-image: url(../AboutUs/images/5e5fbecb5fe8f646be955e8ded53ae17.jpg);
   background-position: center;
   background-size: cover;
@@ -24,21 +24,21 @@
 }
 .testimonial{
     padding: 30px 100px;
-} */
-/* article h1{
+} 
+article h1{
     font-size: 50px;
     font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-} */
-/* article h1:after{
+} 
+article h1:after{
     content: "";
     height: 5px;
     width: 225px;
     background-color: #fff;
     display: block;
     margin: auto;
-} */
+} 
 article img{
     height: 225px;
     width: 200px;
