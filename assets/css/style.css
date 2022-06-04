@@ -27,6 +27,7 @@ body{
     display: inline-block;
     padding: 30px 20px;
     margin-right: 220px;
+    
 }
 .navbar a{
     color:white;
@@ -46,7 +47,7 @@ body{
     justify-content: center;
     color: white;
 }
-.picta img{
+#picta img{
     border-radius: 100px;
     margin-top: 20px;
     margin-right: 200px;
