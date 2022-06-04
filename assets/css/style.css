@@ -45,8 +45,15 @@
 .picta img{
     border-radius: 100px;
     margin-top: 20px;
-    margin-right: 400px;
+    margin-right: 200px;
     height: 450px;
+}
+#footer div{
+    background-color: red;
+    margin: auto;
+    align-items: center;
+    color: aqua;
+    margin-left: 500px;
 }
 
 
