@@ -53,12 +53,17 @@ body{
     height: 450px;
     
 }
-#footer div{
+/* #footer div{
     background-color: red;
     margin: auto;
     align-items: center;
     color: aqua;
     text-align: center;
-}
+} */
+#footer{
+    display: flex;
+    background: aqua;
+    justify-content: space-around;
 
+}
 
