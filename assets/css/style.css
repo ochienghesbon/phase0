@@ -2,10 +2,13 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-    background-image: url(../images/f8e395b6785428be9450d570bf48bf09.jpg);
+    
+}
+body{
+    background: url(../images/f8e395b6785428be9450d570bf48bf09.jpg);
 }
 .navbar{
-    background-color: blueviolet;
+    background-color: blue;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -13,6 +16,7 @@
     font-size: 20px;
     position: sticky;
     top: 0px;
+    width: 100%;
 
 }
 .nav-list{
@@ -54,7 +58,7 @@
     margin: auto;
     align-items: center;
     color: aqua;
-    margin-left: 500px;
+    text-align: center;
 }
 
 
