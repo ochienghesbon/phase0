@@ -111,3 +111,11 @@ form button{
     margin: 10px;
     cursor: pointer;
 }
+button{
+
+    background-color: #4CAF50;
+    color: white;
+    margin-top: 20px;
+    padding: 15px 32px;
+    border-radius: 20px;
+}
