@@ -25,12 +25,7 @@ body{
 .testimonial{
     padding: 30px 100px;
 } 
-article h1{
-    font-size: 50px;
-    font-weight: 800;
-    text-transform: uppercase;
-    letter-spacing: 1.5px;
-} 
+
 article h1:after{
     content: "";
     height: 5px;
@@ -40,30 +35,25 @@ article h1:after{
     margin: auto;
 } 
 article img{
-    height: 225px;
+    height: 200px;
     width: 200px;
     border: 2px solid #fff;
-    border-radius: 50%;
-    margin-top: 60px;
+    border-radius: 100%;
+    margin-top: 5px;
 }
 blockquote{
     font-family: sans-serif;
     font-size: 20px ;
-    margin-top: 30px;
+    margin-top: 10px;
 }
-article h5{
-    text-transform: uppercase;
-    font-size: 28px;
-    margin-top: 30px;
-}
+
 article p{
     font-size: 17px;
 
 }
 .footer{
     display: flex;
-    color: #efefef;
-    background: #4e4e50;
+    background: red;
     padding: 10px 10%;
     width: 100%;
     margin-top: 5px;
@@ -72,6 +62,7 @@ article p{
 
 .footer div{
     text-align: center;
+   
 }
 .column2{
     flex-grow: 2;
@@ -80,6 +71,7 @@ article p{
     font-weight: 300;
     margin-bottom: 30px;
     letter-spacing: 1px;
+    color: #00ff00;
 }
 .column1 a{
     display: block;
@@ -104,14 +96,6 @@ form button{
     border-radius: 30px;
     padding: 10px 30px;
     font-size: 15px;
-    cursor: pointer;
-}
-.media{
-    margin-top: 30px;
-}
-.media i{
-    font-size: 22px;
-    margin: 10px;
     cursor: pointer;
 }
 
