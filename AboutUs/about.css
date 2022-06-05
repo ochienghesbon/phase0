@@ -45,6 +45,7 @@ blockquote{
     font-family: sans-serif;
     font-size: 20px ;
     margin-top: 10px;
+    color: #BF6B92;
 }
 
 article p{
@@ -53,7 +54,7 @@ article p{
 }
 .footer{
     display: flex;
-    background: red;
+    background: #00747C;
     padding: 10px 10%;
     width: 100%;
     margin-top: 5px;
@@ -76,7 +77,7 @@ article p{
 .column1 a{
     display: block;
     text-decoration: none;
-    color: #efefef;
+    color: white;
     margin-bottom: 10px;
 }
 form input{
