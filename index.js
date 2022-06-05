@@ -9,7 +9,7 @@ hide.onclick=function(){
 show.onclick=function(){
     image.style.display='block'
 }
-alert(hello);
+
 
 
 
