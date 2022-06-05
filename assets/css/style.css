@@ -5,10 +5,10 @@
     
 }
 body{
-    background: url(../images/3e1994cf89e4dadaeb782393860e2faf.jpg);
+    background: url(../images/2ea9d73d1c58969150e8696664358f9e.jpg);
 }
 .navbar{
-    background-color: blue;
+    background-color: #ff652f;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -51,17 +51,21 @@ body{
     border-radius: 100px;
     margin-top: 20px;
     margin-right: 200px;
-    height: 450px;
+    height: 300px;
     
 }
 
 .footer{
     display: flex;
     color: #efefef;
-    background: #333;
+    background: #4e4e50;
     padding: 10px 10%;
     width: 100%;
-    margin-top: 150px;
+    margin-top: 5px;
+    position: sticky;
+    /* bottom: 0px; */
+    
+
 }
 .footer div{
     text-align: center;
