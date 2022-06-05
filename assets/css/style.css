@@ -103,3 +103,11 @@ form button{
     font-size: 15px;
     cursor: pointer;
 }
+.media{
+    margin-top: 30px;
+}
+.media i{
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+}
