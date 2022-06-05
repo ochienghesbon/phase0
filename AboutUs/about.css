@@ -15,7 +15,7 @@
 }
 
 body{
-  background-image: url(../AboutUs/images/77773d3ed9364039d3c87ebdbaf6d523\ \(1\).jpg);
+  background: url(../AboutUs/images/2ea9d73d1c58969150e8696664358f9e.jpg);
   background-position: center;
   background-size: cover;
   width: 100%;
@@ -60,5 +60,58 @@ article p{
     font-size: 17px;
 
 }
+.footer{
+    display: flex;
+    color: #efefef;
+    background: #4e4e50;
+    padding: 10px 10%;
+    width: 100%;
+    margin-top: 5px;
+    position: sticky;
+}
 
+.footer div{
+    text-align: center;
+}
+.column2{
+    flex-grow: 2;
+}
+.footer div h3{
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+.column1 a{
+    display: block;
+    text-decoration: none;
+    color: #efefef;
+    margin-bottom: 10px;
+}
+form input{
+    width: 400px;
+    height: 45px;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    outline: none;
+    border: none;
+}
+form button{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.media{
+    margin-top: 30px;
+}
+.media i{
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+}
 
